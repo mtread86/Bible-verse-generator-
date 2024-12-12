@@ -1,6 +1,5 @@
 Kingdom Devotional
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -44,7 +43,7 @@ Kingdom Devotional
 </div>
 
 <footer>
-    © 2024 - Powered by Scripture and Faith
+    © 2024 - Powered by Kingdom Devotionals
 </footer>
 
 <script>
