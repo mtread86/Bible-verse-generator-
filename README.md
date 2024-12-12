@@ -1,5 +1,5 @@
-# Bible-verse-generator-
-A website that displays a random Bible verse 
+Kingdom Devotional
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
