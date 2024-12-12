@@ -1,4 +1,4 @@
-Kingdom Devotional
+Have you talked to God today?
 
 <html lang="en">
 <head>
